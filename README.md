@@ -7,7 +7,7 @@ Haptic vibration shield for Arduino: 4 vibration motors and the [TI DRV2603 hapt
 
 Above preview from boards ordered from [OSH Park](http://oshpark.com/) (a great way to get some if you want them). Created with generous assistance from Harvestworks' Cultural Innovation Fund program.
 
-
+Note: the layout for the DRV2603 is (not quite yet) guaranteed. Please stay tuned!
 
 \- \- \-
 
