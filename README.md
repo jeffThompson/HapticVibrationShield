@@ -1,5 +1,4 @@
 ![Front of board](https://raw.github.com/jeffThompson/HapticVibrationShield/master/PCB_Front.png)
-
 Haptic Vibration Shield
 =====================
 
